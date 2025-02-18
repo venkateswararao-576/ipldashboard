@@ -37,3 +37,30 @@
   font-size: 25px;
   color: red;
 }
+@media (max-width: 768px) {
+  .opponent-card {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+  }
+  .image-card {
+    width: 50px;
+    margin: none;
+  }
+  .title {
+    font-size: 10px;
+    margin: 0px;
+  }
+  .result {
+    font-size: 10px;
+    margin: none;
+  }
+  .green {
+    font-size: 15px;
+    margin: none;
+  }
+  .red {
+    font-size: 15px;
+    margin: none;
+  }
+}

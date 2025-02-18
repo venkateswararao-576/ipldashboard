@@ -13,7 +13,6 @@ const LatestMatch = props => {
     umpires,
     venue,
   } = latestItems
-  console.log(result)
   return (
     <div className="latest-match-card">
       <div className="team-name-date">

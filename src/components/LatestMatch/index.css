@@ -40,3 +40,24 @@
   flex-direction: column;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .latest-match-card {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .team-name {
+    font-size: 15px;
+  }
+  .date {
+    font-size: 10px;
+  }
+  .venue {
+    font-size: 10px;
+  }
+  .status {
+    font-size: 10px;
+  }
+  .team-logo {
+    width: 100px;
+  }
+}
