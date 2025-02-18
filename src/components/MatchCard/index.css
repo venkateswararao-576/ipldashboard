@@ -1,0 +1,39 @@
+.opponent-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e293b;
+  height: 420px;
+  width: 200px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: 10px;
+  list-style-type: none;
+}
+.image-card {
+  width: 100px;
+}
+.title {
+  font-family: Bree Serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+.result {
+  color: white;
+  font-family: Bree Serif;
+  font-size: 15px;
+  text-align: center;
+}
+.green {
+  font-family: Bree Serif;
+  font-size: 25px;
+  color: green;
+}
+.red {
+  font-family: Bree Serif;
+  font-size: 25px;
+  color: red;
+}

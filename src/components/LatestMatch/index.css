@@ -1,0 +1,42 @@
+.latest-match-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #0f172a;
+  width: 100%;
+  margin-top: 20px;
+}
+.team-name-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-name {
+  font-family: Bree Serif;
+  font-size: 25px;
+  color: white;
+}
+.date {
+  font-family: Bree Serif;
+  font-size: 20px;
+  color: white;
+}
+.venue {
+  font-family: Bree Serif;
+  color: white;
+  font-size: 15px;
+}
+.status {
+  font-family: Bree Serif;
+  color: white;
+  font-size: 15px;
+}
+.team-logo {
+  width: 150px;
+}
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
